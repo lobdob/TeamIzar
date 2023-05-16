@@ -5,5 +5,11 @@ public class Batch29 {
         //java is fun
 
         //Max make new project )
+
+
+    }
+
+    public void method1(){
+
     }
 }
